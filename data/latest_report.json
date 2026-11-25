@@ -1,13 +1,8 @@
 {
-  "run_utc": "2026-11-24T16:32:08.634104+00:00",
+  "run_utc": "2026-11-25T01:39:06.928424+00:00",
   "companies_in_review": 0,
   "approved_to_contact": 0,
-  "research_leads_found": 20,
-  "research_errors": [
-    {
-      "country": "USA",
-      "error": "HTTP Error 429: Too Many Requests"
-    }
-  ],
+  "research_leads_found": 30,
+  "research_errors": [],
   "note": "RSS headlines are unverified research leads, not confirmed companies. No messages sent or listings published."
 }
