@@ -1,6 +1,12 @@
 [
   {
     "country": "UAE",
+    "headline": "Philippine real estate leader William Thomas F. Mirasol awarded CEO of the Year at the Asian Business Leader of the Year Awards in Dubai - Gulf News",
+    "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPM1pEczhoa1FfcGJrY1FIQ18ydklaeXRlMEdoUVBOODdrTVhfSVBoTmhLVUk0VGtqR19uYnBtcUJmVzRzOW12d3RMOWVldFd0MU9KbEdoUlhzdkRzNU9GcVUwYUpoNnMtd0Y4OGhUSEdrdDNXQWJ5NnBDd0hvRjBDbzhwU3ZzM2NNZi0yYUZVdUJCYW05NXljSmVud0JPRFF3SUFQdERHVDctWmFLR1hrTUM1dXlTX2lZcjhzNmJHaXI3VWN4WW9VdFlYWFdtMEFKSUNpYXMwYndFb2pYdGJScm5ZZTlyd2FCVU1FOWhMaktDMDJ1aGpIU0pMc2FnSW1fcHJzOEJpVkRnZ3c1QXl5U2N0aHVJSEZJdXRvRdIBrwJBVV95cUxNQVg1UUdRZXdIc1FqN3Z4V2lWajg3SHR5UDVYTGFPQWVhbXRINzFXNURIdDY1VnF0N3lSX1dKX0FVNzJ6bkxVUmxQcnl6c1ZFaTZ0dEJuT3docHhLLVF3RnNaNHVJTUo0T3dvdE1CUi0zZkEySF9JSzItRzRmSHZ0bHpjVE9KUXB4dDFYUC1VbjJnQ2RfX1JISGxtaUtpUklpbWtSOG16elBwWUM2QTBXOHFUcUdjeWp3MDI0TVFvRTZ3VW1WSnBiWVZGYlpDMmRRUkJDMW5hU2dUYzVLZmlfVERCLTcyNm5WM3lvTnBueENlZlFXV2RjTlZ6cjVQVDdCTzB2dmNOaG5pckFoUE9za0ZXaXVOQ3VnVHFrWnZVTHlKLWJyb1ppdXh4UVhmNjA?oc=5",
+    "review_status": "needs_manual_verification"
+  },
+  {
+    "country": "UAE",
     "headline": "Dubai developer paid Trump $12.5 million while bringing data centers to the U.S. - Citizens for Responsibility and Ethics in Washington",
     "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQXF2Y0NoVkNiRkNZc2FTS2RsQ1llSHFKeHduU0NrWnNzM1AwQ0RaVUJEem94bjJDS3RIS1hvaW9jM3hUclM1dHRoZTh1eE1fb0drZjhiWlFrZlRGT3RLcExFQm9VanR0UlJjNExKWmdqbWRyLW1YY1BmNnotb2NfelE4UGkxTUo0b1B6bzFUVHJtb0Y4dWsyNDF2T1g1NmoyTkVINmV2Yi1sQjlZeUhNV3V4Y19oUjhNeURPTUxUTUcwaDMwLVh4NDIyeW9SOU5LcDV6MkhCc3pLZUlaNE01SFNoWHdNOWJncUl6TA?oc=5",
     "review_status": "needs_manual_verification"
@@ -54,12 +60,6 @@
     "review_status": "needs_manual_verification"
   },
   {
-    "country": "UAE",
-    "headline": "Real estate developer Discovery Land Company sets course for Dubai and Portugal - Luxus Plus",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmFWbFJuZWhxa196MVRGN3NWQnozS1VwNkdxYklmRloyc19tMmVyYzJoTDB5X0kyajVFQ1JMT296Y3F5ajBDRXNDZllLQ0hpcWZJN3pJOFdscHI2dF9Cai1LcXlfTDJHdktpUmFQNVhPMUpQV1pPUXZSME5rLTNKUWM1R0ZaTURYQ210VlRhbGNoeExZZEE3WVVObVhlZmc?oc=5",
-    "review_status": "needs_manual_verification"
-  },
-  {
     "country": "Saudi Arabia",
     "headline": "Saudi Real Estate Firms Earn $1.1 Billion Despite Mixed Results - ASHARQ AL-AWSAT English",
     "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFpkS0dCdHV0aHItdjBsU2s2NktEVHBjcUZYb2phTnpZRVFxZGJPZVNkSDN1aUxGR0x1dVNRaElwWURSR2RScVI0WU1WWVZJaWZGSFpxdExjSzNSczBBZVFvYzNzU0I0VG45SjhxZGNSTmlnQm40MGJEbmZOYTFxYUk2MFctajhsY2tTTERvYm5NV3dQLUdhekJITmFyQXB5TnZrVHJtYTI?oc=5",
@@ -73,14 +73,14 @@
   },
   {
     "country": "Saudi Arabia",
-    "headline": "Saudi Arabia to introduce 15% minimum tax on multinational companies from January 2027 - Gulf Business",
-    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONzhZbDNWZTJVWU9xTTVoOTRWeXVMdGlGWXNpZWE3V0t1b0RkQUVEWmdnckU2VDlUZUdNUWhMMlRNM29OTTFHT216THJEZHo5QkxvS1dyYkNJeVIyR0lJLUU4WXl2ajVSSnB0VXJOVFFYWVI4eVppQzRZV0k3ZnBBclUzZ0JWUGhmcmlER29zSUFRMTJ6bDl6cDRFVUNfX2FLN1VmZGtQd0JaQmdQby1lRkF4UVQ0aERpQVdrb2FJVTlXNEs4WkxHRmZjd0o?oc=5",
+    "headline": "'Al-Marasem'.. Saudi Expertise Contributing to City Development and Projects Garnering International Recognition - Knoxville News Sentinel",
+    "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRFQyX3UwTnBweVJJMG5WejAxMldDcFphRlhXRUpoU2ZPZ1ZUMG44MnVVam1zRzBDSVZBenVWUzFBUmpCS3JXTFB6Nk1FWk5oUkNBMVF3QUNtUjZ6eEFEV3dmUzVtY29vT1NWSXJqMWpmTXloTkREMF9STVlxNl92dW9aMGRQVThRRi03WmNFcFJ5Z1dHUks4TjMyNUpPRmlNczhIZmswWXRrcmUxUDF2bUFrTXJQaE95cmdCT0F4RGc0MFQ2OEVHOGN4VHVqTHhjRko5a0tTOTF4cFF4OVhtaXRQdnR0bFFUQ2NJTDNlQ05mN3M?oc=5",
     "review_status": "needs_manual_verification"
   },
   {
     "country": "Saudi Arabia",
-    "headline": "'Al-Marasem'.. Saudi Expertise Contributing to City Development and Projects Garnering International Recognition - Knoxville News Sentinel",
-    "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRFQyX3UwTnBweVJJMG5WejAxMldDcFphRlhXRUpoU2ZPZ1ZUMG44MnVVam1zRzBDSVZBenVWUzFBUmpCS3JXTFB6Nk1FWk5oUkNBMVF3QUNtUjZ6eEFEV3dmUzVtY29vT1NWSXJqMWpmTXloTkREMF9STVlxNl92dW9aMGRQVThRRi03WmNFcFJ5Z1dHUks4TjMyNUpPRmlNczhIZmswWXRrcmUxUDF2bUFrTXJQaE95cmdCT0F4RGc0MFQ2OEVHOGN4VHVqTHhjRko5a0tTOTF4cFF4OVhtaXRQdnR0bFFUQ2NJTDNlQ05mN3M?oc=5",
+    "headline": "Saudi Arabia to introduce 15% minimum tax on multinational companies from January 2027 - Gulf Business",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONzhZbDNWZTJVWU9xTTVoOTRWeXVMdGlGWXNpZWE3V0t1b0RkQUVEWmdnckU2VDlUZUdNUWhMMlRNM29OTTFHT216THJEZHo5QkxvS1dyYkNJeVIyR0lJLUU4WXl2ajVSSnB0VXJOVFFYWVI4eVppQzRZV0k3ZnBBclUzZ0JWUGhmcmlER29zSUFRMTJ6bDl6cDRFVUNfX2FLN1VmZGtQd0JaQmdQby1lRkF4UVQ0aERpQVdrb2FJVTlXNEs4WkxHRmZjd0o?oc=5",
     "review_status": "needs_manual_verification"
   },
   {
@@ -127,20 +127,14 @@
   },
   {
     "country": "USA",
-    "headline": "Former Seattle area real estate broker sentenced to prison for fraud on investors and the IRS - Department of Justice (.gov)",
-    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZHJSd2VXNU5ZMEFBOXQ2SnRnXzVxdDZiSExvUHVhc3VGaUlQYmhVY00tOVRRNjZaUnozcjNET191NXp4cVNzMHpfY254aTdUUE0tYXJYS0Q5NnRNTll2NkxvV2hIMXRscWcyZWUxMnNqN0dCLXV3T1BtR0VWQVRmbExpYWF3WlJuaURoY3BaVzNqc0RORFQtYkVqQndHR3R6WUdMOGdmcWZ0V3JqVEtrV2tPQ3dHcTQ?oc=5",
-    "review_status": "needs_manual_verification"
-  },
-  {
-    "country": "USA",
     "headline": "The rise and fall of real estate brokers and agents - firsttuesday Journal",
     "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRno0MDV6WjAxUVNEdFdEWnhBRjVQbmxwR1Z2TndERDNRWU1IVF9VbTBoeFpkY050RHFKQWQ4ZkFaNy1WYWFsOENwaDJoUER5RnFiRk41Q0Q2TEtqUWMtbVk2V2gwUVA1MmluMzIwSnZ1N1hrOHNlMm1VZGIyY3BQcVF4NDhxZ1MyM0c1T013?oc=5",
     "review_status": "needs_manual_verification"
   },
   {
     "country": "USA",
-    "headline": "The Top Real Estate Companies in the U.S. - U.S. News Real Estate",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkVMcnFoNlh2VUdlc0kwc0xVTExTNjFDS3dBN1JSWUsyM0Y1OVRkN0d2Yk9LSDBnRDlybWQ3SUZtR1A3RVJNaUFvZkFjT2FWWEp2NjVOdzJZVXh6MXZ0NTNpSzFZVGF3Y3JCTHJEQ3lGZmVlaEQtYVFTUVVTMEdVNk9Ua0E?oc=5",
+    "headline": "Former Seattle area real estate broker sentenced to prison for fraud on investors and the IRS - Department of Justice (.gov)",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZHJSd2VXNU5ZMEFBOXQ2SnRnXzVxdDZiSExvUHVhc3VGaUlQYmhVY00tOVRRNjZaUnozcjNET191NXp4cVNzMHpfY254aTdUUE0tYXJYS0Q5NnRNTll2NkxvV2hIMXRscWcyZWUxMnNqN0dCLXV3T1BtR0VWQVRmbExpYWF3WlJuaURoY3BaVzNqc0RORFQtYkVqQndHR3R6WUdMOGdmcWZ0V3JqVEtrV2tPQ3dHcTQ?oc=5",
     "review_status": "needs_manual_verification"
   },
   {
@@ -151,14 +145,8 @@
   },
   {
     "country": "USA",
-    "headline": "Emerging Trends in Real Estate® 2027 - PwC",
-    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDN3dUZtSjhOUThqemdyV1g3eVpBc1dXTGxsaUVlMWNOZG5PMFlCMW1iMUR0d0dyNTVXa3NwZVI1azZYeHhWdEFpUGlXSFRsRXFDMXZVWmtPQm5MYzZzZ1R5bHdxVDUzOV95REQ0ZG5QZHlIRmhiRFJCSGpTYVY0ZmFtRXZCaTJmaG12MVNPRE5rRV92clZudTRQU3RrYXZwdWNDeF9ubU1ueVNlZWNsZzhLUTZ2VzBud1NrTFdIdmFQclVaLWl2c1c3TlBHUE8x?oc=5",
-    "review_status": "needs_manual_verification"
-  },
-  {
-    "country": "USA",
-    "headline": "2027 Commercial Real Estate Outlook - Deloitte",
-    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckRVZFVWZlZad1hiMmxVQml6eEEwUWR1SFJPRm1SWVQ1NXFsLVlsM0JMb1FDS1pFdE42aWFMWmtkU3Y1WWRQMEppZUZXZFphTm5uWnJrUlhLQ2poN21qXzU4R3BjR3dTbGNCSW9yR1hXd2dEblJQMmp4OWIza2l2WUJobHhXZDB0Mk1FZnVLN0VGY3c1T0RjZHJTalVPWTY1am1tRGNrNHA0bEd1dFJBZ3NocXVBWjJUSm82WDNQN256aE44eUJEcWlxek5vM0FiOGRraHRpVQ?oc=5",
+    "headline": "The Top Real Estate Companies in the U.S. - U.S. News Real Estate",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkVMcnFoNlh2VUdlc0kwc0xVTExTNjFDS3dBN1JSWUsyM0Y1OVRkN0d2Yk9LSDBnRDlybWQ3SUZtR1A3RVJNaUFvZkFjT2FWWEp2NjVOdzJZVXh6MXZ0NTNpSzFZVGF3Y3JCTHJEQ3lGZmVlaEQtYVFTUVVTMEdVNk9Ua0E?oc=5",
     "review_status": "needs_manual_verification"
   },
   {
@@ -169,14 +157,26 @@
   },
   {
     "country": "USA",
-    "headline": "The Best Real Estate Companies to Work For in 2026 - HousingWire",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLTdUQnpuYmdHM19HQm5PdlRkYlppTlN4cmp4VGhMNmJUQ0lTbzVoM0hrOHJ4cklmRmJPNTg2RjFzeDB5VWJieF9neVJPRUZ6NkxRV1c3Z1h6bGtuQmtHLVA3cXZNSGRFLUFWaWlEenpzTGg0RHc2U0M5UzZ0UDJ6ZnRn?oc=5",
+    "headline": "Emerging Trends in Real Estate® 2027 - PwC",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDN3dUZtSjhOUThqemdyV1g3eVpBc1dXTGxsaUVlMWNOZG5PMFlCMW1iMUR0d0dyNTVXa3NwZVI1azZYeHhWdEFpUGlXSFRsRXFDMXZVWmtPQm5MYzZzZ1R5bHdxVDUzOV95REQ0ZG5QZHlIRmhiRFJCSGpTYVY0ZmFtRXZCaTJmaG12MVNPRE5rRV92clZudTRQU3RrYXZwdWNDeF9ubU1ueVNlZWNsZzhLUTZ2VzBud1NrTFdIdmFQclVaLWl2c1c3TlBHUE8x?oc=5",
     "review_status": "needs_manual_verification"
   },
   {
     "country": "USA",
     "headline": "Competition in the real estate brokerage industry: A critical review - Brookings",
     "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZnQ1AwcnhidkR6M2JVTURVcFJpYlQwVkY4YnlKS1pMdHJkaFlYdVpualBfTEVHVEgwMXU1NFRmUTR3UEd4a3M5eV9FVjAzR1FtMG9iWTM2Rjk0M1dmbTBBWnpkS3hSU1V6Q3JsemtBOEpXV1RPUV9PenItcjloSkRXSFRwVzRlTW5VNW5HMzA1eDc1OHdPYkhOcWpOSWNWNzBWeEJR?oc=5",
+    "review_status": "needs_manual_verification"
+  },
+  {
+    "country": "USA",
+    "headline": "The Best Real Estate Companies to Work For in 2026 - HousingWire",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLTdUQnpuYmdHM19HQm5PdlRkYlppTlN4cmp4VGhMNmJUQ0lTbzVoM0hrOHJ4cklmRmJPNTg2RjFzeDB5VWJieF9neVJPRUZ6NkxRV1c3Z1h6bGtuQmtHLVA3cXZNSGRFLUFWaWlEenpzTGg0RHc2U0M5UzZ0UDJ6ZnRn?oc=5",
+    "review_status": "needs_manual_verification"
+  },
+  {
+    "country": "USA",
+    "headline": "Existing-Home Sales - National Association of REALTORS®",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORlU4ZXU5RldrUklXSXVXODR3SkhndkM1TXo3eERSeEstTGZDWkZ1MGNtdThnUXZZaGpLSUY4aW5UTC1NN0xoRHQzZmFGTFRmaktIaVZDNVBzclp2TWJyUmgtSm55dk5hYzlWRnkwMlZvRkFtajhQeWdqMC1zMkdfU1lETGVMelNHb1kxMDQ0TQ?oc=5",
     "review_status": "needs_manual_verification"
   }
 ]
